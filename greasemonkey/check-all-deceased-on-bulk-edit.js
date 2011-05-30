@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           check-all-deceased-on-bulk-edit
+// @name           check-all-deceased-on-bulk-edit.js
 // @namespace      Erin
 // @include        http://www.geni.com/list*
 // ==/UserScript==
